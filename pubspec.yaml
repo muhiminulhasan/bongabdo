@@ -1,0 +1,8 @@
+name: bongabdo
+description: Bangla/Bengali date converter for dart / flutter.
+version: 0.0.1
+author: A.S.M. Muhiminul Hasan
+homepage: https://github.com/muhiminulhasan
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
